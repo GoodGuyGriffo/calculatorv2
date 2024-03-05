@@ -1,0 +1,13 @@
+.op-btn {
+    border: 1px solid black;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    background: #D07F1E;
+    color: white;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.op-btn:active {
+    transform: translateY(2px);
+}

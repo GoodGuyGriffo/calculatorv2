@@ -1,0 +1,8 @@
+.numpad {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-right: 0.5em;
+    border-radius: 10px;
+    padding: .5em;
+    gap: .5em;
+}
